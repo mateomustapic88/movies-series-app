@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7Bmovies-series-app%7D/static/css/main.114380fd.chunk.css",
+    "main.js": "/%7Bmovies-series-app%7D/static/js/main.13db147a.chunk.js",
+    "main.js.map": "/%7Bmovies-series-app%7D/static/js/main.13db147a.chunk.js.map",
+    "runtime-main.js": "/%7Bmovies-series-app%7D/static/js/runtime-main.22e04112.js",
+    "runtime-main.js.map": "/%7Bmovies-series-app%7D/static/js/runtime-main.22e04112.js.map",
+    "static/js/2.1254c6b7.chunk.js": "/%7Bmovies-series-app%7D/static/js/2.1254c6b7.chunk.js",
+    "static/js/2.1254c6b7.chunk.js.map": "/%7Bmovies-series-app%7D/static/js/2.1254c6b7.chunk.js.map",
+    "index.html": "/%7Bmovies-series-app%7D/index.html",
+    "precache-manifest.55cf4df6a6a85c86dbeacc355ee30739.js": "/%7Bmovies-series-app%7D/precache-manifest.55cf4df6a6a85c86dbeacc355ee30739.js",
+    "service-worker.js": "/%7Bmovies-series-app%7D/service-worker.js",
+    "static/css/main.114380fd.chunk.css.map": "/%7Bmovies-series-app%7D/static/css/main.114380fd.chunk.css.map",
+    "static/js/2.1254c6b7.chunk.js.LICENSE.txt": "/%7Bmovies-series-app%7D/static/js/2.1254c6b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22e04112.js",
+    "static/js/2.1254c6b7.chunk.js",
+    "static/css/main.114380fd.chunk.css",
+    "static/js/main.13db147a.chunk.js"
+  ]
+}
