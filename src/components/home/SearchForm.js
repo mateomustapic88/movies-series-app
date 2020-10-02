@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import { connect } from 'react-redux';
+
 import {
 	searchMovie,
 	fetchMovies,
@@ -42,4 +44,12 @@ export class SearchForm extends Component {
 	}
 }
 
-export default SearchForm;
+const mapStateToProps = (state) => ({
+	text: state.movies.text,
+});
+
+export default connect(mapStateToProps, {
+	searchMovie,
+	fetchMovies,
+	setLoading,
+})(SearchForm);
